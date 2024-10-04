@@ -1,4 +1,5 @@
-#This project focuses on predicting house prices using supervised regression techniques. The dataset was sourced from Kaggle, and the project was inspired by concepts learned from CampusX tutorials.
+Supervised Regression Technique
+This project focuses on predicting house prices using supervised regression techniques. The dataset was sourced from Kaggle, and the project was inspired by concepts learned from CampusX tutorials.
 
 Key highlights of this project:
 
